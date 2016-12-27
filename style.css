@@ -1,0 +1,93 @@
+body {
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Bangers', cursive;
+  background-color:#666547;
+  padding-top: 70px;
+}
+
+h2 {
+
+font-family: 'Fredericka the Great', cursive;
+  /*font-family: 'Bangers', cursive;
+  font-family:'Montserrat', sans-serif;
+  font-weight: 700;*/ }
+
+.topo {
+  background-color:#FB2E01;
+  padding:15px;
+}
+
+.topo a{
+  color:#ffffff;
+  font-size:20px;
+  text-decoration:none;
+}
+
+.topo a:hover{
+  color:#000000;
+  text-decoration:none;
+}
+
+.linkedin a{
+  color:white;
+  text-decoration:none;
+}
+
+.content{
+  font-family:Helvetica;
+}
+
+.sobre {
+  background-color:#6fcb9f;
+  /*text*/
+  color:#ffffff;
+  /*text*/
+  padding:20px 50px;
+  /*height:560px;*/
+}
+
+.anchor{
+  display: block;
+  height: 100px; /*same height as header*/
+  margin-top: -100px; /*same height as header*/
+  visibility: hidden;
+}
+
+.projetos {
+  background-color:#ffe28a;
+  padding:20px;
+  /*height:600px;*/
+}
+
+.projetos h2{
+  font-family: 'Fredericka the Great', cursive;
+}
+
+/*.imagens {
+  border:2px dashed black;
+  background-color:#fffeb3;
+}*/
+
+.space {
+  margin:aut;
+  padding:10px;
+}
+.contato {
+  background-color:#fffeb3;
+  /*background-image:url('http://geospoc.com/wp/wp-content/uploads/2015/05/awhCbhLqRceCdjcPQUnn_IMG_02491.jpg');*/
+  /*height: 560px;*/
+}
+
+#footer {
+  color:white;
+  text-align:center;
+  font-family:Helvetica;
+}
+
+#footer a{
+  color:white;
+}
+
+.bottom {
+  background-color:#FB2E01;
+}
